@@ -12,6 +12,7 @@
 		ADCF6E631CB7A51C00924E0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADCF6E611CB7A51C00924E0F /* Main.storyboard */; };
 		ADCF6E651CB7A51C00924E0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADCF6E641CB7A51C00924E0F /* Assets.xcassets */; };
 		ADCF6E681CB7A51C00924E0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADCF6E661CB7A51C00924E0F /* LaunchScreen.storyboard */; };
+		ADCF6E701CB7A54900924E0F /* background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ADCF6E6F1CB7A54900924E0F /* background.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ADCF6E641CB7A51C00924E0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADCF6E671CB7A51C00924E0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADCF6E691CB7A51C00924E0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADCF6E6F1CB7A54900924E0F /* background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background.jpeg; path = ../../../Downloads/background.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		ADCF6E5C1CB7A51C00924E0F /* FlightBooking */ = {
 			isa = PBXGroup;
 			children = (
+				ADCF6E6F1CB7A54900924E0F /* background.jpeg */,
 				ADCF6E5D1CB7A51C00924E0F /* AppDelegate.swift */,
 				ADCF6E5F1CB7A51C00924E0F /* ViewController.swift */,
 				ADCF6E611CB7A51C00924E0F /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				ADCF6E681CB7A51C00924E0F /* LaunchScreen.storyboard in Resources */,
 				ADCF6E651CB7A51C00924E0F /* Assets.xcassets in Resources */,
 				ADCF6E631CB7A51C00924E0F /* Main.storyboard in Resources */,
+				ADCF6E701CB7A54900924E0F /* background.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

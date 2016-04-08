@@ -10,6 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var departureDateButton: UIButton!
+    @IBOutlet var returnDateLabel: UILabel!
+    @IBOutlet var returnDateButton: UIButton!
+    @IBOutlet var selectDatePicker: UIDatePicker!
+    
+    @IBAction func showDatePickerAction(sender: AnyObject) {
+    }
+    
+    @IBAction func showReturnDateAction(sender: AnyObject) {
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
